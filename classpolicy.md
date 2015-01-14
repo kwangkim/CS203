@@ -4,9 +4,10 @@
 Contact info:kkim@qcc.cuny.edu
 Please, use your **tigermail.**
 ### Class meets
-- Mon 10:10AM-11:00AM
-- Tue 10:10AM-12:00PM
-- Thr 10:10AM-12:00PM
+- Mon 10:10AM-11:00AM at M-134
+- Tue 10:10AM-12:00PM at S-220
+- Thr 10:10AM-12:00PM at S-220
+- 
 ### Office hour at S-320A
 - Mon 09:10AM-10:00AM
 - Mon 11:10AM-12:00PM
