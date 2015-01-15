@@ -8,4 +8,4 @@ search algo
 
 http://www.cprogramming.com/discussionarticles/sorting_and_searching.html
 
-http://www.cprogramming.com/discussionarticles/sorting_and_searching.html
+http://www.cs.uregina.ca/Links/class-info/115/03-search-and-sort/
