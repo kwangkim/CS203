@@ -23,8 +23,11 @@ b. LAB(45%)
 c. Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
 
 ### Communication
-
-
+We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
+a. Piazza.com - Q&A discussion board. I will post note and other materials here and we will comminicate with piazza.com. Download the app from app store or playstore.
+b. sagemathcloud.com - Developing program and collaboration.
+c. bitbucket.org - Final team project.
+ 
 ### Undergraduate Research
 
 This is a research intensive course and students will do their research in small teams. The topic for the research project will be "Solving the numerical problems in science with programming". Each group will find numerical problems in their science courses including mathematics and develop the software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15min presentation in the class room.
