@@ -19,5 +19,19 @@ a. Class exam(30%):TEST 1, TEST2, TEST3
 b. LAB(45%)
  - LAB CODING QUIZ(10%): 4 quizzes+1 extra credit quiz
  - Regular Project(25%): 5 projects
- - Final research project(10%) - code and  the presentation.
+ - Final team research project(10%) - code and  the presentation.
 c. Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+
+### Communication
+
+
+### Undergraduate Research
+
+This is a research intensive course and students will do their research in small teams. The topic for the research project will be "Solving the numerical problems in science with programming". Each group will find numerical problems in their science courses including mathematics and develop the software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15min presentation in the class room.
+
+Therefore **CUNY RCR training** is necessary for all students. I will post a detail schedule later.
+
+### Homework Policy
+a, For regular projects, student wil
+
+
