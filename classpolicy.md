@@ -47,6 +47,6 @@ Please, silence your cellphone and other electronic devices. Except early notice
 **For the quiz and test, students should turn off their electronic devices and put them in their bag to avoid a failing grade for the quiz, or test.**
 
 ### Attendance Policy
-**Unexcused absences beyond 15% of course hours(2 weeks) result in a failing grade for the course.** Two late marks count as one absence. To excuse your absences, **a proper document with early notice** is necessary.
+**Unexcused absences beyond 15% of course hours(2 weeks) result in a failing grade for the course.**  To excuse your absences, **a proper document with early notice** is necessary. Two late marks count as one absence. If students leave early with early notice, I will consider as one late mark.
 
 
