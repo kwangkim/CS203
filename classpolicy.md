@@ -38,7 +38,7 @@ This is a research intensive course and students will do their research in small
 Therefore **CUNY RCR training is necessary for all students**. I will post a detail schedule at piazza.com later.
 
 ### Project Policy
-**There is no late projects will be accepted.** I strongly suggested you submit at least one day earlier than their due dates. Academic Integrity is very important. **All projects must be the original work of the student (and group if applicable) to get a proper grade for project.**
+**There is no late projects will be accepted.** I strongly suggested you submit at least one day earlier than their due dates. Academic Integrity is very important. **All projects must be the original work of the student (and group if applicable) to get a proper grade for projects.**
 - For regular projects, students will submit their **project code and design report** to sagemathcloud.com.
 - For the final team project, students will submit their **project code, design report and presentation** to bitbucket.org
 
