@@ -15,18 +15,18 @@ Please, use your **tigermail.**
 
 **TEXT**:C++ Without Fear by B. Overland, 2nd Edition, Prentice Hall Publishing
 ### Grading
-a. Class exam(30%):TEST 1, TEST2, TEST3
-b. LAB(45%)
+>a. Class exam(30%):TEST 1, TEST2, TEST3
+>b. LAB(45%)
  - LAB CODING QUIZ(10%): 4 quizzes+1 extra credit quiz
  - Regular Project(25%): 5 projects
  - Final team research project(10%) - code and  the presentation.
-c. Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+>c. Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
 
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
-a. Piazza.com - Q&A discussion board. I will post note and other materials here and we will comminicate with piazza.com. Download the app from app store or playstore.
-b. sagemathcloud.com - Developing program and collaboration.
-c. bitbucket.org - Final team project.
+>a. Piazza.com - Q&A discussion board. I will post note and other materials here and we will comminicate with piazza.com. Download the app from app store or playstore.
+>b. sagemathcloud.com - Developing program and collaboration.
+>c. bitbucket.org - Final team project.
  
 ### Undergraduate Research
 
