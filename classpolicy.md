@@ -17,10 +17,14 @@ Please, use your **tigermail.**
 ### Grading
 - Class exam(30%):TEST 1, TEST2, TEST3
 - LAB(45%)
- -- LAB CODING QUIZ(10%): 4 quizzes+1 extra credit quiz
+ -- LAB CODING QUIZ(10%): 4 quizzes + 1 extra credit quiz(2%)
  -- Regular Project(25%): 5 projects
  -- Final team research project(10%) - code and  the presentation.
 - Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+
+### NO MAKE UP QUIZ or TEST!! Please, contact me before QUIZ or TEST if you have any problem.
+
+### April 24 is the last day for withdrawl.
 
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
