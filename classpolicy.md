@@ -24,17 +24,21 @@ Please, use your **tigermail.**
 
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
-- Piazza.com - Q&A discussion board. I will post note and other materials here and we will comminicate with piazza.com. Download the app from app store or playstore.
-- sagemathcloud.com - Developing program and collaboration.
-- bitbucket.org - Final team project.
+- **Piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
+- **sagemathcloud.com** - For reular projects. Tools for development and collaboration.
+- **bitbucket.org** - Final team project. Source management system.
  
 ### Undergraduate Research
 
-This is a research intensive course and students will do their research in small teams. The topic for the research project will be "Solving the numerical problems in science with programming". Each group will find numerical problems in their science courses including mathematics and develop the software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15min presentation in the class room.
+This is a research intensive course and students will do their research in small teams. The topic for the research project will be "Solving the numerical problems in science with programming". Each group will find numerical problems in their science courses including mathematics and develop the C++ software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15min presentation in the class room.
 
 Therefore **CUNY RCR training** is necessary for all students. I will post a detail schedule later.
 
-### Homework Policy
-a, For regular projects, student wil
+### Project Policy
+There is no late projects will be accepted. I strongly suggested you submit at least one day earlier than their due dates. 
+- For regular projects, student will submit their project code and design report using sagemathcloud.com
+
+### No SNS and call policy
+Please, silence your cellphone and other electronic devices.
 
 
