@@ -6,6 +6,8 @@ http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-ef
 
 https://developers.google.com/edu/c++/
 
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/lecture-notes/
+
 
 search algo
 
