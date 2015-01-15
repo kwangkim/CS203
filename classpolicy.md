@@ -27,8 +27,8 @@ Please, use your **tigermail.**
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
 - **Piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
-- **sagemathcloud.com** - For reular projects. Tools for development and collaboration.
-- **bitbucket.org** - Final team project. Source management system.
+- **sagemathcloud.com** - Tools for development and collaboration.
+- **bitbucket.org** - Source management system for projects.
  
 ### Undergraduate Research
 
