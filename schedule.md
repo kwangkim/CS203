@@ -34,9 +34,18 @@
 33. 14.3 string B
 34. 15.1 Linked list A
 35. 15.1 Linked List B
-36. Extra example A
-37. Extra example B
+36. smart pointer A
+37. smart pointer B
 38. 16.1 STL
-39. 16.2 RPN Calc 
-40. 16.2 stack
-41. 16.3 
+39. 16.2 RPN Calc  
+40. 16.2 stack A
+41. 16.2 stack B
+42. 17.1 inheritance Float fractopm
+43. 17.2 floatfraction implementation
+44. 17.2 Protected/Object containment
+45. 18.1  Polymorphism
+46. 18.2 abstraction
+47. 18.3 interface
+48. Extra 1. queues A
+49. Extra 1. queues B
+50. Extra 2. Search
