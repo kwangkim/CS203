@@ -38,7 +38,12 @@ Therefore **CUNY RCR training** is necessary for all students. I will post a det
 There is no late projects will be accepted. I strongly suggested you submit at least one day earlier than their due dates. 
 - For regular projects, student will submit their project code and design report using sagemathcloud.com
 
-### No SNS and call policy
-Please, silence your cellphone and other electronic devices.
+### No SNS and phone policy
+Please, silence your cellphone and other electronic devices. Except early notice, do not use SNS or phone.
+**For the quiz and test, students should turn off their electronic devices and put them in their bag.**
+
+### Attendance Policy
+
+**Unexcused absences beyond 15% of course hours(2 weeks) result in a failing grade for the course.** Two late marks count as one absence. To excuse your absences, **a proper document with early notice** is necessary.
 
 
