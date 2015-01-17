@@ -7,7 +7,7 @@ http://stackoverflow.com/questions/2336230/difference-between-const-pointer-and-
 c++ ref vs c++ ref
 http://stackoverflow.com/questions/979814/c-references-and-java-references
 
-pass by pointer is actually copy constructor.
+pass by pointer is using actually a copy constructor.
 ```
 #include <iostream>
 using namespace std;
