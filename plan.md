@@ -1,5 +1,5 @@
 6. Pointer 
-
+Memory menagement CH14. 263-376p
 Reference(321p-323p)
 
 ref vs (const) pointer
@@ -53,21 +53,42 @@ Fraction constructor
 copy constructor
 string => fraction
 Ch13. Operator  overloading
+
 member vs global
+
 friend
+
 efficiency with ref
+
 point class
+
 Fraction class
+
 working with other types // =
 http://www.cplusplus.com/doc/tutorial/typecasting/
 operator ==
+
 Print member
+
 cout 
 http://www.cplusplus.com/reference/iostream/cout/
+
 osteam
 https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-3.4/ostream-source.html
+
 iosream
 https://gcc.gnu.org/onlinedocs/gcc-4.6.2/libstdc++/api/a00911_source.html
+
+Ch14 string
+deep copy
+
+Ch15.
+linked list
+smart pointer
+stack
+
+CH16. STL
+list template
 
 
 
