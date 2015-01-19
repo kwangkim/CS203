@@ -41,7 +41,11 @@ Ch16. STL
  -container/ list /iterator/sort
  -stack/ RPN calculator
  -do-while(230-231p)/switch(232-234p)/RPN calculator implementation
- -template/c++ tokenizer https://gcc.gnu.org/onlinedocs/libstdc++/manual/strings.html  --Consider more--
+ -template/c++ tokenizer 
+
+http://www.informit.com/articles/article.aspx?p=2064649&seqNum=7 
+ 
+https://gcc.gnu.org/onlinedocs/libstdc++/manual/strings.html  --Consider more--
 
 http://www.cplusplus.com/articles/4N3hAqkS/
 
