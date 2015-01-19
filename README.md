@@ -1,4 +1,7 @@
 # CS203
+lecture note
+http://www.umich.edu/~eecs381/
+
 
 https://class.coursera.org/cplusplus4c-002/lecture
 
