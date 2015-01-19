@@ -102,6 +102,10 @@ http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presenta
 http://stackoverflow.com/questions/406081/why-should-i-avoid-multiple-inheritance-in-c
 http://www.cprogramming.com/tutorial/virtual_inheritance.html
 
+independent GUI
+
+
+
 download a book
 http://mindview.net/Books/DownloadSites
 
