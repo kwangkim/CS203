@@ -96,7 +96,14 @@ CH 17. inheritance
 Floatfraction 
 constructor problem
 Protected
-Object container
+Object container ?? object composition vs aggregation
+http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
+
+http://stackoverflow.com/questions/406081/why-should-i-avoid-multiple-inheritance-in-c
+http://www.cprogramming.com/tutorial/virtual_inheritance.html
+
+download a book
+http://mindview.net/Books/DownloadSites
 
 
 
