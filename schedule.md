@@ -1,3 +1,33 @@
+- Introduction / Review 
+- Review
+CH6. 
+ - Pointer/ Out of address /pointer arithmetic
+ - swap/ buble sort
+ - Reference 321-323p /swap 
+ - Pass by value or reference
+
+CH14. Dynamic memory memagement 363-369p.
+- Heap / new / delete
+- array / function for vector/matrix
+
+CH11 Class
+ - class/ point class/ private/ public
+ - Faction class/inline/ normalize, gcf, lcd/string
+ - Multiple module(234-236p)/header/add/multiply
+ - Exception Handling(237-240p) zero denominator
+
+Ch12. Constructor
+- review variable(constructor,destructor,copy constructor)/constructor/default and warning
+- multiple constructor(Overloading:227p-228p)
+ 
+
+
+
+
+
+
+
+
 0. Course introduction
 1. Review C++
 2. Review c++
