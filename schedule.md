@@ -11,7 +11,7 @@ CH14. Dynamic memory memagement 363-369p.
 - array / function for vector/matrix
 
 CH11 Class
- - class/ point class/ private/ public
+ - class/ point class/ private/ public/ dot ->
  - Faction class/inline/ normalize, gcf, lcd/string
  - Multiple module(234-236p)/header/add/multiply
  - Exception Handling(237-240p) zero denominator
@@ -29,7 +29,24 @@ Ch13. Operator
 Ch14.
  - Class destructo
  - String class/ member functions/ ==
- - String copy constructor/
+ - String copy constructor/this / = /cancatenation
+ - Complete String
+
+Ch15. Linked List
+ - Linked List
+ - nullptr(262-263p)/smart pointer http://www.umich.edu/~eecs381/handouts/C++11_smart_ptrs.pdf
+ - Stack
+
+Ch16. STL
+ -container/ list /iterator/sort
+ -stack/ RPN calculator
+ -do-while(230-231p)/switch(232-234p)/RPN calculator implementation
+ -template/c++ tokenizer https://gcc.gnu.org/onlinedocs/libstdc++/manual/strings.html  --Consider more--
+
+http://www.cplusplus.com/articles/4N3hAqkS/
+
+http://www.cplusplus.com/reference/sstream/istringstream/
+ 
 
 
 
