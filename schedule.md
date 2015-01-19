@@ -17,9 +17,20 @@ CH11 Class
  - Exception Handling(237-240p) zero denominator
 
 Ch12. Constructor
-- review variable(constructor,destructor,copy constructor)/constructor/default and warning
-- multiple constructor(Overloading:227p-228p)
+- review variable(constructor,destructor,copy constructor,=,==)/constructor/default and warningmultiple constructor(Overloading:227-228p)/within class/delegating constructor/point class constructors
+- Fraction class constructor/Copy constructor
+- Parsing(strtok,atoi)/String to Fract /Exception
+
+Ch13. Operator
+ - class operator/ global vs member /Using Reference/ Point Class operator
+ - Fraction Class operator
+ - operator = , == / print function (<<),osteam /completed fraction/User-defined literals
  
+Ch14.
+ - Class destructo
+ - String class/ member functions/ ==
+ - String copy constructor/
+
 
 
 
