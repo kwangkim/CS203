@@ -60,7 +60,18 @@ CH18. Polymorphism
  - virtual/ Revised FloatFraction Class
  - Abstract class(interface)/Print class
  - Multiple inheritance http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
- 
+
+CH8
+ -open/close/write/read
+ -text/binary/Random Access
+
+CH9
+ - commmand line
+
+CH10
+ - long long
+ - Strongly Typed Enumeration
+
 Extra
  - Queue http://www.cplusplus.com/reference/queue/queue/
  - <algorithm> Search http://www.cplusplus.com/reference/algorithm/search/
