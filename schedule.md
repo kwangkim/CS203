@@ -53,11 +53,11 @@ Ch13. Operator
 [3/2] Choose topic of final project.
  - Project 2 - CH11,12
  
- [3/3]
+[3/3]
  - class operator/ global vs member /Using Reference/ Point Class operator
  - Fraction Class operator
  
- [3/5]
+[3/5]
  -QUIZ 2 -CH14, CH11, 12
  - operator = , == / print function (<<),osteam /completed fraction/User-defined literals
  
