@@ -1,5 +1,6 @@
-- Introduction / Review 
-- Review
+Introduction / Review 
+Review
+
 CH6. 
  - Pointer/ Out of address /pointer arithmetic
  - swap/ buble sort
