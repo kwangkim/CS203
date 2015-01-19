@@ -61,13 +61,11 @@ CH18. Polymorphism
  - Abstract class(interface)/Print class
  - Multiple inheritance http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
  
-
-
-
-
-
-
-
+Extra
+ - Queue http://www.cplusplus.com/reference/queue/queue/
+ - <algorithm> Search http://www.cplusplus.com/reference/algorithm/search/
+ - <algorithm> Sort http://en.wikipedia.org/wiki/Sort_%28C%2B%2B%29
+ 
 
 0. Course introduction
 1. Review C++
