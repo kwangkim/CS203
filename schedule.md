@@ -51,7 +51,16 @@ http://www.cplusplus.com/articles/4N3hAqkS/
 
 http://www.cplusplus.com/reference/sstream/istringstream/
  
-
+CH17. 
+ - inheritance/ public base/ FlaotFraction class/ cast http://www.cplusplus.com/doc/tutorial/typecasting/
+ - constructor/completed FloatFraction/protected
+ - Object container ( composition/ aggregation) http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
+ 
+CH18. Polymorphism
+ - virtual/ Revised FloatFraction Class
+ - Abstract class(interface)/Print class
+ - Multiple inheritance http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
+ 
 
 
 
