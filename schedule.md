@@ -83,16 +83,17 @@ Ch15. Linked List
  - Stack
 
 Ch16. STL
-[3/18]
+[3/19]
  -container/ list /iterator/sort
  -stack/ RPN calculator
  
-[3/19]
- -QUIZ 3 -CH13,14,15
- -do-while(230-231p)/switch(232-234p)/RPN calculator implementation-A
- 
 [3/23]
- -RPN calculator implementation-B/Cx11:c++ tokenizer 
+ -QUIZ 3 -CH13,14,15
+ -do-while(230-231p)/switch(232-234p)
+ 
+[3/24]
+ -RPN calculator implementation-B/Cx11:c++ tokenizer
+ -Project 4- CH15,16
 
 http://www.informit.com/articles/article.aspx?p=2064649&seqNum=7 
  
@@ -104,19 +105,16 @@ http://www.cplusplus.com/reference/sstream/istringstream/
  
 CH17.
 
-[3/24]
- - Project 4- CH15,16
- - inheritance/ public base/ FlaotFraction class/ cast http://www.cplusplus.com/doc/tutorial/typecasting
- 
 [3/26]
- - QUIZ 4- CH 15,16
+ - inheritance/ public base/ FlaotFraction class/ cast http://www.cplusplus.com/doc/tutorial/typecasting
  - constructor/completed FloatFraction/protected
- 
+
 [3/30]
- - Object container ( composition/ aggregation) http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
+ -  QUIZ 4- CH 15,16
+ - Object container - composition http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
  
 [4/2] Final project Check up. 
-
+ - Object container - aggregation
 CH18. Polymorphism
 
 [4/13] TEST 2 -REVIEW/ Submit Progress.
