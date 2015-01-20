@@ -120,7 +120,7 @@ CH17.
  
 CH18. Polymorphism
 
-[4/13] TEST 2 -REVIEW/ Submit Progress.
+[4/13] TEST 2 -REVIEW/ Submit Progress(4/13 10AM)
 
 [4/14] TEST 2 - ~CH17
 
