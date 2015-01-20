@@ -161,6 +161,8 @@ Extra
 
 [5/7] Final Project Presentation
 
-[5/12] TEST3- REVIEW
+[5/11] TEST3- REVIEW
 
-[5/14] TEST3 
+[5/12] TEST3
+
+[5/14] final review
