@@ -106,8 +106,7 @@ http://www.cplusplus.com/reference/sstream/istringstream/
 CH17.
 
 [3/26]
- - inheritance/ public base/ FlaotFraction class/ cast http://www.cplusplus.com/doc/tutorial/typecasting
- - constructor/completed FloatFraction/protected
+c
 
 [3/30]
  -  QUIZ 4- CH 15,16
