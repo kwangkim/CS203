@@ -111,10 +111,13 @@ CH17.
 
 [3/30]
  -  QUIZ 4- CH 15,16
+
+[3/31]
  - Object container - composition http://www.slideshare.net/pohjus/c-inheritance-composition-polymorphism-presentation
- 
-[4/2] Final project Check up. 
  - Object container - aggregation
+
+[4/2] Final project Check up. 
+ 
 CH18. Polymorphism
 
 [4/13] TEST 2 -REVIEW/ Submit Progress.
