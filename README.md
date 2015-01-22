@@ -2,6 +2,7 @@
 lecture note
 http://www.umich.edu/~eecs381/
 
+http://www.cs.rit.edu/~teb/4003-703/index.html
 
 https://class.coursera.org/cplusplus4c-002/lecture
 
